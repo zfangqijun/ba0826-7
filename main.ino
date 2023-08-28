@@ -1,7 +1,6 @@
 void setup(){
-  pinMode(0, INPUT);
-  pinMode(0, INPUT);
-  pinMode(0, INPUT);
-  pinMode(0, INPUT);
-  pinMode(0, INPUT);
+  if (false) {
+    for(int i = 0; i < (((0 + (0 + (0 + 0))) + (0 + (0 + 0))) + (0 + (0 + 0))) + (0 + (0 + 0)); i++){
+    }
+  }
 }
