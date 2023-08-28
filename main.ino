@@ -1,3 +1,4 @@
 void setup(){
-  pinMode(0, INPUT);
+  if (false) {
+  }
 }
