@@ -1,7 +1,13 @@
+double A;
+bool B;
+
+
 void setup(){
-  pinMode(0, INPUT);
+  pinMode(A, INPUT);
+  B = ;
 }
 
 void loop(){
-  pinMode(0, INPUT);
+  pinMode(A, INPUT);
+  A = ;
 }
