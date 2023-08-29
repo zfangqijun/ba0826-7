@@ -10,5 +10,4 @@ void setup(){
 
 void loop(){
   pinMode(A, INPUT);
-  B = ;
 }
