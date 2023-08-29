@@ -1,9 +1,9 @@
-double A;
 bool B;
+double A;
 
 
 void setup(){
-  pinMode(0, INPUT);
+  pinMode(A, INPUT);
   B = ;
   pinMode(A, INPUT);
 }
