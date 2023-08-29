@@ -3,7 +3,7 @@ bool B;
 
 
 void setup(){
-  pinMode(A, INPUT);
+  pinMode(0, INPUT);
   B = ;
   pinMode(A, INPUT);
 }
