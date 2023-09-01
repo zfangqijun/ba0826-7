@@ -9,4 +9,5 @@ void loop(){
   pinMode(A, INPUT);
   B = ;
   pinMode(A, INPUT);
+  pinMode(A, INPUT);
 }
